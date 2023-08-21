@@ -1,0 +1,15 @@
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/bin/Debug/net7.0/SampleDotNetApplication
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/bin/Debug/net7.0/SampleDotNetApplication.deps.json
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/bin/Debug/net7.0/SampleDotNetApplication.runtimeconfig.json
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/bin/Debug/net7.0/SampleDotNetApplication.dll
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/bin/Debug/net7.0/SampleDotNetApplication.pdb
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/obj/Debug/net7.0/SampleDotNetApplication.csproj.AssemblyReference.cache
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/obj/Debug/net7.0/SampleDotNetApplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/obj/Debug/net7.0/SampleDotNetApplication.AssemblyInfoInputs.cache
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/obj/Debug/net7.0/SampleDotNetApplication.AssemblyInfo.cs
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/obj/Debug/net7.0/SampleDotNetApplication.csproj.CoreCompileInputs.cache
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/obj/Debug/net7.0/SampleDotNetApplication.dll
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/obj/Debug/net7.0/refint/SampleDotNetApplication.dll
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/obj/Debug/net7.0/SampleDotNetApplication.pdb
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/obj/Debug/net7.0/SampleDotNetApplication.genruntimeconfig.cache
+/home/jasper/git/github.com/JasperZ/SampleDotNetApplication/obj/Debug/net7.0/ref/SampleDotNetApplication.dll
